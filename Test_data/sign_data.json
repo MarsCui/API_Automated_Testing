@@ -1,0 +1,14 @@
+{
+	"sign1": [{
+		"username": "admin",
+		"password": "admin123"
+	}],
+  	"sign2": [{
+		"username": "super",
+		"password": "super123"
+	}],
+  	"sign3": [{
+		"username": "1",
+		"password": "1"
+	}]
+}

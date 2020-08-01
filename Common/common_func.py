@@ -3,14 +3,14 @@ __all__ = ["link", "content_type", "token", "merge_head", "header"]
 
 
 def link():
-    host = "http://114.119.183.204"  # no ssl
-    port = "3150"
+    host = "http://xxx.xxx.xxx.xxx"  # no ssl
+    port = "xx"
     fore_url = host + ":" + port  # short for url
     return fore_url
 
 
 def links():
-    hosts = "https://114.119.183.204"  # with ssl
+    hosts = "https://xxx.xxx.xxx.xxx"  # with ssl
     port = "3150"
     fore_urls = hosts + ":" + port  # short for url
     return fore_urls

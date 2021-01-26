@@ -1,6 +1,6 @@
 # API_Automated_Testing
 This is the simple framework for API testing and easy for test engineers..
-采用的是python自带的unittest框架，简单易懂，蚕蛹json格式的文件执行数据驱动，更适合测试工程师测试使用。
+采用的是python自带的unittest框架，简单易懂，采用json格式的文件执行数据驱动，更适合测试工程师测试使用。
 
 ## 结构
 - common  存放通用方法
